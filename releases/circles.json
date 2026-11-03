@@ -1,0 +1,17 @@
+{
+  "versions": [
+    {
+      "tag": "circles-1.0",
+      "version": "1.0",
+      "prerelease": false,
+      "published": "2026-11-03T10:25:35Z",
+      "url": "https://github.com/ugrossek/CHOMPI/releases/tag/circles-1.0",
+      "asset": "CHOMPI_CIRCLES_1.0.bin",
+      "asset_id": 705191424,
+      "asset_updated": "2026-11-03T10:25:34Z",
+      "download": "https://github.com/ugrossek/CHOMPI/releases/download/circles-1.0/CHOMPI_CIRCLES_1.0.bin",
+      "size": 202260,
+      "sha256": "7ff2badcaa52cf5f8285efd9546ca1149b569cfa4d2b1aff4c97996edd8bb605"
+    }
+  ]
+}

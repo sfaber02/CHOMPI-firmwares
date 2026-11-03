@@ -1,0 +1,15 @@
+{
+  "title": "CIRCLES",
+  "card": "CIRCLES",
+  "author": "ugrossek",
+  "maintainers": [
+    "ugrossek"
+  ],
+  "summary": "Fifteen loopers that play together, each with its own instrument and loop length: keep a figure, pass it on, let the lengths drift.",
+  "color": "#FFFFFF",
+  "source": {
+    "repo": "ugrossek/CHOMPI",
+    "tag": "^circles-(?P<v>\\d.*)$",
+    "asset": "^CHOMPI_CIRCLES_.*\\.bin$"
+  }
+}
